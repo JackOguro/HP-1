@@ -1,0 +1,222 @@
+.recruit_top {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.recruit_top ul {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.recruit_top li {
+  text-align: center;
+}
+
+.recruit_top li a {
+  color: #555;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.recruit_top li a:hover {
+  opacity: 0.5;
+}
+
+.buniness_all {
+  position: relative;
+}
+
+.recruit_block_wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.recruit_block_1 {
+  width: 100%; 
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  top: 100px;
+}
+
+.recruit_block_1 img {
+  width: 90%;
+  height: 100%;
+}
+
+.recruit_block_2 {
+  width: 100%;
+  margin-right: 10%;
+  background-color: rgb(221, 221, 221, 0.5);
+  padding: 2.5%;
+  position: relative;
+  top: 50px;
+}
+
+.recruit_block_2 h2 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #555;
+  line-height: 0.8;
+  margin-bottom: 5%;
+}
+
+.recruit_block_2 h2 small {
+  font-size: 18px;
+  color: deepskyblue;
+}
+
+.recruit_block_2 h3 {
+  font-size: 18px;
+  font-weight: normal;
+  color: #555;
+  line-height: 0.8;
+  margin-bottom: 5%;
+}
+
+.recruit_list_wrapper {
+  position: relative;
+  background: rgba(221, 221, 221, 0.5);
+  width: 70%;
+  margin: auto;
+  z-index: -1;
+  padding-bottom: 1%;
+  margin-bottom: 5%;
+}
+
+
+.recruit_list {
+ overflow: hidden;
+}
+
+.recruit_item {
+  width: 100%;
+}
+
+.recruit_item {
+  width: 100%;
+}
+
+.recruit_item p {
+  font-size: 17.5em;
+  color: #fff;
+  white-space: nowrap;
+}
+
+.recruit_btn {
+  margin: 0 auto;
+  width: 30%;
+  line-height: 4;
+  font-weight: normal;
+  margin-bottom: 10%;
+}
+
+.recruit_btn a {
+  font-weight: normal;
+}
+
+.intern_intro_wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-top: 10%;
+}
+
+.intern_intro_txt {
+  width: 40%;
+  margin: auto;
+}
+
+.intern_intro_img {
+  width: 40%;
+  margin: auto;
+}
+
+.intern_intro_img img {
+  width: 100%;
+  height: 100%;
+}
+
+.intern_intro_txt h2 {
+  font-size: 24px;
+  line-height: 1;
+  margin-bottom: 2.5%;
+}
+
+.intern_intro_txt h2 small {
+  font-size: 0.6em;
+  color: lightskyblue;
+  font-weight: normal;
+  
+}
+
+.intern_block_persons {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 5%;
+}
+
+.intern_block_person {
+  width: 25%;
+  background-color: #ddd;
+  padding: 2.5%;
+  position: relative;
+}
+
+.intern_person_img {
+  text-align: center;
+}
+
+.intern_person_img img {
+  width: 70%;
+  height: 70%;
+  border-radius: 50%;
+}
+
+.intern_person_info {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 256px;
+}
+
+.intern_person_info p {
+  color: white;
+  font-size: 20px;
+}
+
+.intern_person_info p small {
+  font-size: 10px;
+  font-weight: normal;
+  position: relative;
+  top: -20px;
+}
+
+.intern_block_person_department {
+  position: relative;
+  top: -10px;
+}
+
+.intern_person_txt {
+  margin-top: 10%;
+}
+
+.intern_discussion_ttl {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.intern_discussion_ttl h2 {
+  font-size: 24px;
+}
+
+.intern_discussion_ttl h2 span {
+  font-size: 30px;
+  font-weight: bold;
+  color: deepskyblue;
+}
