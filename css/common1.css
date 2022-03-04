@@ -66,6 +66,7 @@ li {
 
 .header_name {
   font-size: 24px;
+  padding: 2.5%;
 }
 
 .header_name span {
@@ -194,7 +195,7 @@ li {
 
 .feature_txt {
   font-size: 20px;
-  color:deepskyblue;
+  color: deepskyblue;
   font-weight: bold;
 }
 
@@ -275,7 +276,6 @@ li {
   display: flex;
   align-items: center;
   position: relative;
-  
 }
 
 .recruit_txt {
@@ -334,8 +334,8 @@ li {
 }
 
 .footer_list {
- border-bottom: 3px solid #777;
- padding: 2.5% 0;
+  border-bottom: 3px solid #777;
+  padding: 2.5% 0;
 }
 
 .footer_list ul {
@@ -354,9 +354,9 @@ li {
   display: inline-block;
 }
 
-.footer_list li a:hover{
-   border-bottom: 2px solid #555;
-   opacity: 0.5;
+.footer_list li a:hover {
+  border-bottom: 2px solid #555;
+  opacity: 0.5;
 }
 
 .footer_block_2 p {
@@ -366,4 +366,5 @@ li {
 
 .copyright {
   text-align: right;
+  padding: 2.5%;
 }

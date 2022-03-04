@@ -33,7 +33,7 @@
 }
 
 .recruit_block_1 {
-  width: 100%; 
+  width: 100%;
   display: flex;
   justify-content: flex-start;
   position: relative;
@@ -85,21 +85,18 @@
   margin-bottom: 5%;
 }
 
-
 .recruit_list {
- overflow: hidden;
+  overflow: hidden;
+  padding-top: 10%;
 }
 
 .recruit_item {
   width: 100%;
-}
-
-.recruit_item {
-  width: 100%;
+  text-align: center;
 }
 
 .recruit_item p {
-  font-size: 17.5em;
+  font-size: 118px;
   color: #fff;
   white-space: nowrap;
 }
@@ -149,7 +146,6 @@
   font-size: 0.6em;
   color: lightskyblue;
   font-weight: normal;
-  
 }
 
 .intern_block_persons {
